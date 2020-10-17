@@ -9,9 +9,7 @@ Make sure that the problem competitve
 
 ### Contribution
 You can contribute to this repository in two ways:
-
 - Add any intresting problem statement which is not present before
-
 - Add a solution for any of the problem 
 
 If you are new to open source contribution, checkout [WELCOME](WELCOME.md) in our repository.
