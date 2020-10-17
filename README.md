@@ -1,7 +1,7 @@
 # CodeTalkers
-A repository for contributing to solutions for competitive problems.
+##### A repository for contributing to solutions for competitive problems.
 
-## Questions
+### Questions
 We have competitive programming problems in [QUESTIONS](QUESTIONS.md)
 
 You can provide solutions to these problems as well as you can add your own problems and provide a solution to them.
