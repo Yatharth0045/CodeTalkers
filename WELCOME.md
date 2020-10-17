@@ -13,4 +13,4 @@ Steps to raise a pull request are
 8. On this page, select the base repository as `Yatharth0045/CodeTalkers` with base branch as `main` and on head repository, select `<your-repo>/CodeTalkers` with compare branch as `<your-branch>`
 9. Now wait for the maintainers you review your pull request.
 
-That's it. You have successfully contributed to our repository.
+#### That's it. You have successfully contributed to our repository.
