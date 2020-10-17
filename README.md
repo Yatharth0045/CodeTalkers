@@ -2,6 +2,8 @@
 
 **A repository for contributing to solutions for competitive problems.**
 
+![image](https://user-images.githubusercontent.com/30123482/96348563-760c8380-10c7-11eb-9cc4-27877650d550.png)
+
 ### Questions
 We have competitive programming problems in [QUESTIONS](QUESTIONS.md)
 
@@ -19,7 +21,7 @@ Before submitting your PRs, please refer to the **guidilines** regarding contrib
 
 ### Do Hit the ⭐ on our repository if you like our way of contributing to the OpenSource Community
 
-### Connect with the maintainers
+### Connect with the Maintainers
 * Yatharth Sharma - [LinkedIn](https://www.linkedin.com/in/yatharth7/)
 * Ashish Sapra    - [LinkedIn](https://www.linkedin.com/in/ashish-sapra/)
 * Bhramar Virmani - [LinkedIn](https://www.linkedin.com/in/bhramarv021/)
