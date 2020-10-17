@@ -9,14 +9,14 @@ By contributing, you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) 
 Before submitting your PRs, please read the following guideline and make sure that your PR follows the same:
 
 1. **PR Title:** The title of your PR must follow this format
-    - `**<github-id>-<problem-no(in integers)>-<language-chosen>**`
-    - For eg: If I am submitting the solution for the 1st problem, my PR title should be `**yatharth0045-1-java**`
+    - **`<github-id>-<problem-no(in integers)>-<language-chosen>`**
+    - For eg: If I am submitting the solution for the 1st problem, my PR title should be **`yatharth0045-1-java`**
 
 2. **PR Description:** The PR Description can be left entry. Optionally, you can add any notes which you want us to know before we test your code.
 
-3. **Solution Count:** Each PR should have a solution for only 1 problem statement.
+3. **Solution Count:** Each PR should have a **solution for only 1** problem statement.
 
-4. **Codebase Directory Structure:** For each solution that you contribute, please maintain the following directory structure
+4. **Codebase Directory Structure:** For each solution that you contribute, please **maintain the following directory structure**
 
     ```
     CodeTalkers/
