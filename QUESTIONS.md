@@ -62,4 +62,8 @@ are 2 3 5 and 7.
 
 Given a positive integer N, calculate the sum of all prime numbers between 1 and N(inclusive).
 
+### Q9 Find the shortest simple path in a tree in linear time. 
+
+Given a tree find the shortest path
+
 
