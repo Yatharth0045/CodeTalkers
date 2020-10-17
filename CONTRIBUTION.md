@@ -9,8 +9,8 @@ By contributing, you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) 
 Before submitting your PRs, please read the following guideline and make sure that your PR follows the same:
 
 1. **PR Title:** The title of your PR must follow this format
-    - `<github-id>-<problem-no(in integers)>-<language-chosen>`
-    - For eg: If I am submitting the solution for the 1st problem, my PR title should be `yatharth0045-1-java`
+    - `**<github-id>-<problem-no(in integers)>-<language-chosen>**`
+    - For eg: If I am submitting the solution for the 1st problem, my PR title should be `**yatharth0045-1-java**`
 
 2. **PR Description:** The PR Description can be left entry. Optionally, you can add any notes which you want us to know before we test your code.
 
@@ -41,5 +41,7 @@ Before submitting your PRs, please read the following guideline and make sure th
    2. How to run
 
     You can check the format of [run.md](Sample/run.md) here
+
+    For more information on **markdown** format, Do check out this awesome [markdown-cheetsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 
 ### Also, Do Hit the Star Button on our repository if you like our way of contributing to the OpenSource Community
