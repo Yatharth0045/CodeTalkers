@@ -16,4 +16,6 @@ If you are new to open source contribution, checkout [WELCOME](WELCOME.md) in ou
 
 Before submitting your PRs, please refer to the **guidilines** regarding contribution in [CONTRIBUTION](CONTRIBUTION.md) file.
 
+### Do Hit the Star Button on our repository if you like our way of contributing to the OpenSource Community
+
 #### Keep Contributing
