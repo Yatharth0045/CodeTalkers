@@ -1,5 +1,7 @@
 # Welcome
-Hello Potential Contributor, Welcome to the world of OpenSource.
+Hello Potential Contributor, Welcome to the **World of OpenSource**
+
+![image](https://user-images.githubusercontent.com/30123482/96348619-cd125880-10c7-11eb-91c8-40b678da1821.png)
 
 ### Steps to raise a pull request are
 
