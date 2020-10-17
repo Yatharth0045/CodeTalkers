@@ -23,4 +23,4 @@ As multiple developers are contributing to this repository, you need to **update
 2. **Update your local repository** with upstream repository using command: `**git pull upstream master**`
 3. **Update your forked repository**: `**git push origin master**`
 
-##### If you have any queries, you can connect with us over [Discord](https://discord.gg/f8RhQEp) or [LinkedIn](https://www.linkedin.com/in/yatharth7/)
+If you have any queries, you can connect with us over [**Discord**](https://discord.gg/f8RhQEp) or [**LinkedIn**](https://www.linkedin.com/in/yatharth7/)
