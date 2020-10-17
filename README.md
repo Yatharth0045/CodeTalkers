@@ -8,12 +8,14 @@
 We have competitive programming problems in [QUESTIONS](QUESTIONS.md)
 
 You can provide solutions to these problems as well as you can add your own problems and provide a solution to them.
-Make sure that the problem competitve
+Make sure that the problem is competitve and challenging.
 
 ### Contribution
 You can contribute to this repository in two ways:
 - Add any intresting problem statement which is not present before with their solution
 - Add a solution for any of the existing problem 
+
+**Note: Use can you programming language of your choice for providing the solution. Providing even an algorithm will also work.**
 
 If you are new to open source contribution, checkout [WELCOME](WELCOME.md) in our repository.
 
