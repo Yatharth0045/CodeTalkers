@@ -1,10 +1,10 @@
-# Contributor Licence Agreement
+## Contributor Licence Agreement
 By contributing you agree to the [LICENCE](LICENSE.md) of this repository
 
-# Contributor Code of Conduct
+## Contributor Code of Conduct
 By contributing, you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) of this repository
 
-# Guidelines
+## Guidelines
 
 Before submitting your PRs, please read the following guideline and make sure that your PR follows the same:
 
@@ -42,4 +42,4 @@ Before submitting your PRs, please read the following guideline and make sure th
 
     You can check the format of [run.md](Sample/run.md) here
 
-## Also, Do Hit the Star Button on our repository if you like our way of contributing to the OpenSource Community
+### Also, Do Hit the Star Button on our repository if you like our way of contributing to the OpenSource Community
