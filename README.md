@@ -15,7 +15,7 @@ You can contribute to this repository in two ways:
 - Add any intresting problem statement which is not present before with their solution
 - Add a solution for any of the existing problem 
 
-**Note: Use can you programming language of your choice for providing the solution. Providing even an algorithm will also work.**
+**Note: You can use programming language of your choice for providing the solutions. Providing even an algorithm will also work.**
 
 If you are new to open source contribution, checkout [WELCOME](WELCOME.md) in our repository.
 
