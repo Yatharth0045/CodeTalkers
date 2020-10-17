@@ -1,5 +1,6 @@
 # CodeTalkers
-##### A repository for contributing to solutions for competitive problems.
+
+**A repository for contributing to solutions for competitive problems.**
 
 ### Questions
 We have competitive programming problems in [QUESTIONS](QUESTIONS.md)
@@ -16,6 +17,13 @@ If you are new to open source contribution, checkout [WELCOME](WELCOME.md) in ou
 
 Before submitting your PRs, please refer to the **guidilines** regarding contribution in [CONTRIBUTION](CONTRIBUTION.md) file.
 
-### Do Hit the Star Button on our repository if you like our way of contributing to the OpenSource Community
+### Do Hit the ⭐ on our repository if you like our way of contributing to the OpenSource Community
 
-#### Keep Contributing
+### Connect with the maintainers
+* Yatharth Sharma - [LinkedIn](https://www.linkedin.com/in/yatharth7/)
+* Ashish Sapra    - [LinkedIn](https://www.linkedin.com/in/ashish-sapra/)
+* Bhramar Virmani - [LinkedIn](https://www.linkedin.com/in/bhramarv021/)
+
+
+#### Get yourself a cup of coffee && Keep Contributing
+
