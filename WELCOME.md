@@ -22,7 +22,7 @@ Hello Potential Contributor, Welcome to the **World of OpenSource**
 As multiple developers are contributing to this repository, you need to **updated your forked repository** with my updated repository. For this, here are the steps you need to follow:
 
 1. Set the **original repo as upstream repo** using the following command: **`git remote add upstream https://github.com/Yatharth0045/CodeTalkers.git`**
-2. **Update your local repository** with upstream repository using command: **`git pull upstream master`**
-3. **Update your forked repository**: **`git push origin master`**
+2. **Update your local repository** with upstream repository using command: **`git pull upstream main`**
+3. **Update your forked repository**: **`git push origin main`**
 
 If you have any queries, you can connect with us over [**Discord**](https://discord.gg/f8RhQEp) or [**LinkedIn**](https://www.linkedin.com/in/yatharth7/)
