@@ -12,10 +12,10 @@ public class SumPrime {
 		}
 		int PrimeArray[] = new int[N+1];
 		PrimeArray[2]=1;
-		for(int i=3;i<PrimeArray.length;i+=2){
+		for(int i=3;i<=PrimeArray.length;i+=2){
 			PrimeArray[i]=1;
 		}
-		for(int i=3;i<PrimeArray.length;i+=2){
+		for(int i=3;i<=PrimeArray.length;i+=2){
 			for(int j=2*i;j<PrimeArray.length;j+=i){
 				PrimeArray[j]=0;
 			}
