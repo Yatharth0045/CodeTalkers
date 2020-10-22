@@ -12,7 +12,7 @@ Before submitting your PRs, please read the following guideline and make sure th
     - **`<github-id>-<problem-no(in integers)>-<language-chosen>`**
     - For eg: If I am submitting the solution for the 1st problem, my PR title should be **`yatharth0045-1-java`**
 
-2. **PR Description:** The PR Description can be left entry. Optionally, you can add any notes which you want us to know before we test your code.
+2. **PR Description:** The PR Description can be left empty. Optionally, you can add any notes which you want us to know before we test your code.
 
 3. **Solution Count:** Each PR should have a **solution for only 1** problem statement.
 
