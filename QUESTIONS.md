@@ -73,3 +73,26 @@ Output: 2
 Input: [3, 4, 1, 4, 1]
 Output: 4 or 1
 
+### Q10 N people in a circle with a gun
+
+Given N people standing in a circle in an order 1 to N. No. 1 has a gun. He kills the next person (i.e. No. 2) and gives the gun to the next (i.e. No. 3). All people do the same until only 1 survives. 
+
+Write a program to tell which number survives at the last?
+
+Note: There are N people starting from 1 to N.
+
+Example
+Input: Number of people in circle: N=10
+Output: 5
+
+Explanation:
+
+Here, we can define an array with 10 elements with values from 1 to 10.
+
+ - No.1 has a gun. He kills next person (i.e. no. 2) and gives gun to next to next (i.e no. 3). We have taken array element as a person. 1st person kills the next. So, starting from 1, we’ll remove next element i.e. 2.
+ - Then first person gives gun to next to next i.e. 3. That person will also kill next person and this continues. Means, in array, we need to start with 1 and remove the every other (alternate) element till 10. (all the even numbers will be removed and we’ll be left with odd numbers only in array).
+
+Initially: 1 2 3 4 5 6 7 8 9 10
+Round 1: 1 3 5 7 9
+Round 2: 1 5 9
+Round 3: 5 
