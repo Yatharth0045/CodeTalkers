@@ -63,3 +63,13 @@ are 2 3 5 and 7.
 Given a positive integer N, calculate the sum of all prime numbers between 1 and N(inclusive).
 
 
+### Q9 Find a duplicate in an array.  
+
+Given an array of n + 1 integers between 1 and n, find one of the duplicates. If there are multiple possible answers, return one of the duplicates. If there is no duplicate, return -1.
+
+Example:
+Input: [1, 2, 2, 3]
+Output: 2
+Input: [3, 4, 1, 4, 1]
+Output: 4 or 1
+
