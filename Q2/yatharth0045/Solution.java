@@ -42,17 +42,35 @@ class Solution {
     }
 
     static void isMultiple(int den1, int den2, int num1, int num2) {
+        int origDen1=den1;
+        int origDen2=den2;
         int numx=1;
         int denx=1;
-        for(int i = 2 ; i <= ((den2 / 2) + 1) ; i++){
-            while(den1 % i == 0) {
-                den1 = den1 / i;
-                den2 = den2 / i;
-                denx = denx * i;
+        int range=den2/2+1;
+        while(den1!=1 || den2!=1){
+            for(int i = 2 ; i <= origDen1 ;) {
+                if(den1 % i == 0){
+                    den1/=i;
+                    if(den2 % i == 0){
+                        den2/=i;
+                        denx*=i;
+                    }else{
+                        denx*=i;
+                    }
+                }else if(den2 % i ==0){
+                    den2/=i;
+                    denx*=i;
+                }else{
+                    i++;
+                }
             }
         }
-        denx = den1 * den2;
-        numx = (num1 * den2) + (num2 * den1);
+        if(denx == 1){
+            denx = den1 * den2;
+            numx = (num1 * den2) + (num2 * den1);
+        }else{
+            numx = (((denx/origDen1)*num1) + ((denx/origDen2)*num2)); 
+        }
         System.out.println( numx + " / " + denx );
     }
 }
