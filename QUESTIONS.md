@@ -93,6 +93,9 @@ Here, we can define an array with 10 elements with values from 1 to 10.
  - Then first person gives gun to next to next i.e. 3. That person will also kill next person and this continues. Means, in array, we need to start with 1 and remove the every other (alternate) element till 10. (all the even numbers will be removed and we’ll be left with odd numbers only in array).
 
 Initially: 1 2 3 4 5 6 7 8 9 10
+
 Round 1: 1 3 5 7 9
+
 Round 2: 1 5 9
+
 Round 3: 5 
