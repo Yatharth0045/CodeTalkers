@@ -10,7 +10,7 @@ class MaxWater{
         for(int i = 0 ; i < size ; i++){
             arr[i] = scan.nextInt();
         }
-        System.out.println(maxWater(arr));
+        System.out.println("Max Water possible : "+maxWater(arr));
     }
 
     private static int maxWater(int[] arr) {
@@ -19,8 +19,6 @@ class MaxWater{
         int temp=0;
         System.out.println("Solution");
         for(int i = 1;i < arr.length ; i++){
-            System.out.println("temp : "+temp);
-            System.out.println("max= : "+maxWater);
             if(arr[i]<max && arr[i]<arr[i-1]){
                 temp=temp+(max-arr[i]);
             }else if(arr[i]<max && arr[i]>arr[i-1]){
