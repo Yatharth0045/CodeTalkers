@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main{
+class MaxWater{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Input array size: ");
