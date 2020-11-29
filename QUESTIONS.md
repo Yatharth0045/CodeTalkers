@@ -98,3 +98,55 @@ Initially: 1 2 3 4 5 6 7 8 9 10 <br />
 Round 1: 1 3 5 7 9 <br />
 Round 2: 1 5 9 <br />
 Round 3: 5 
+
+### Q11 Trapping Rain Water
+
+Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+
+Example 1 <br /> 
+Input: arr[]   = {2, 0, 2} <br /> 
+Output: 2 <br /> 
+Explanation: <br /> 
+We can trap 2 units of water in the middle gap. <br /> 
+The structure is like below <br /> 
+
+```
+
+    #   #
+    #   #
+    - - -    
+
+```
+
+Example 2 <br />
+Input: arr[]   = {3, 0, 2, 0, 4} <br />
+Output: 7 <br />
+Explanation: <br />
+We can trap "3 units" of water between 3 and 2, "1 unit" on top of bar 2 and "3 units" between 2 and 4. <br />
+Structure is like below <br />
+
+```
+
+            #
+    #       #
+    #   #   #
+    #   #   #
+    - - - - -
+
+```
+
+Example 3 <br />
+Input: arr[] = [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1] <br />
+Output: 6 <br />
+Explanation: <br />
+Trap "1 unit" between first 1 and 2, "4 units" between first 2 and 3 and "1 unit" between second last 1 and last 2. <br />
+The structure is like below <br />
+
+```
+
+                  #  
+          #       # #   #
+      #   # #   # # # # # #  
+    - - - - - - - - - - - -
+
+```
