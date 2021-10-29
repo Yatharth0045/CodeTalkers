@@ -5,6 +5,7 @@ class BuildPattern{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         pattern(scan.nextInt());
+        scan.close();
     }
 
     static void pattern(int n){

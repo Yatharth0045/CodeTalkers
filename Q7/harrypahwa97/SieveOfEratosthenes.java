@@ -3,6 +3,7 @@ public class SieveOfEratosthenes {
 	public static void main(String harsh[]){
 		Scanner s=new Scanner(System.in);
 		int N = s.nextInt();
+		s.close();
 		int PrimeArray[]=new int[1000001];
 		PrimeArray[2]=1;
 		for(int i=3;i<PrimeArray.length;i+=2){

@@ -11,6 +11,7 @@ class Duplicate {
             arr[i] = scan.nextInt();
         }
         System.out.println(findDuplicate(arr));
+        scan.close();
     }
 
     static int findDuplicate(int[] arr){
