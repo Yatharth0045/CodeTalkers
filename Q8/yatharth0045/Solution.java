@@ -6,6 +6,7 @@ class Solution {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter the limit to find out the sum of primes : ");
         System.out.println("Sum is : "+sumOfPrimes(scan.nextInt()));
+        scan.close();
     }
 
     static int sumOfPrimes(int limit) {

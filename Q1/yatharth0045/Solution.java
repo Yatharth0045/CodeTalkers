@@ -6,6 +6,7 @@ class Solution{
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the number : ");
         System.out.println(isPalindrome(sum(scan.nextInt())));
+        scan.close();
     }
 
     static int sum(int number){

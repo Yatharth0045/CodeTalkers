@@ -10,6 +10,7 @@ class Armstrong{
         else{
             System.out.println("Number is Not Armstrong");
         }
+        scan.close();
     }
 
     static boolean isArmstrong(int number){

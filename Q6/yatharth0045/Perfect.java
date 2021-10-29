@@ -9,6 +9,7 @@ class Perfect {
         }else{
             System.out.println("Number is not Perfect");
         }
+        scan.close();
     }
 
     static boolean isPerfect(int number){

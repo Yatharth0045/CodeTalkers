@@ -13,6 +13,7 @@ class Solution {
         System.out.print("Enter Denominator 2 : ");
         int den2=scan.nextInt();
         fractionSum(num1, den1, num2, den2);
+        scan.close();
     }
 
     static void fractionSum(int num1, int den1, int num2, int den2) {

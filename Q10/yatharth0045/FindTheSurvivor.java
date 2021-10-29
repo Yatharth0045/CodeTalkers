@@ -5,6 +5,7 @@ class FindTheSurvivor {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int numberOfPerson = scan.nextInt();
+        scan.close();
         System.out.println(findSurvivour(numberOfPerson));
     }
 

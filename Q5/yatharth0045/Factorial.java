@@ -5,6 +5,7 @@ class Factorial{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println(factorial(scan.nextInt()));
+        scan.close();
     }
 
     static int factorial(int number){

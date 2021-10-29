@@ -11,6 +11,7 @@ class MaxWater{
             arr[i] = scan.nextInt();
         }
         System.out.println("Max Water possible : "+maxWater(arr));
+        scan.close();
     }
 
     private static int maxWater(int[] arr) {

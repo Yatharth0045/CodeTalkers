@@ -3,6 +3,7 @@ public class SumPrime {
 	public static void main(String harsh[]){
 		Scanner s= new Scanner(System.in);
 		int N = s.nextInt();
+		s.close();
 		if(N<3){
 			if(N<2)
 				System.out.print("Sum of Prime Numbers till "+N+" = "+"0");

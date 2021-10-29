@@ -16,6 +16,7 @@ public class Fraction {
 		num2 = s.nextInt();
 		System.out.print("Enter the denominator of the 2nd number : ");
 		den2 = s.nextInt();
+		s.close();
 		num = (num1*den2) + (num2*den1);
 		den = den1 * den2;
 		gcd=GCD(num,den); //for converting into lowest form
