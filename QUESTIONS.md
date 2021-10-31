@@ -151,7 +151,6 @@ The structure is like below <br />
 
 ```
 
-<<<<<<< HEAD
 ### Q12 Leaders in an array  
 
 Write a program to print all the LEADERS in the array. An element is leader if it is greater than all the elements to its right side. And the rightmost element is always a leader. <br />
@@ -160,7 +159,6 @@ Let the input array be arr[] and size of the array be size. <br />
 Example: <br />
 Input: [16, 17, 4, 3, 5, 2] <br />
 Output: 17, 5, 2 
-=======
 ### Q13 Majority Element 
 
 Write a function which takes an array and prints the majority element (if it exists), otherwise prints “No Majority Element”. A majority element in an array A[] of size n is an element that appears more than n/2 times (and hence there is at most one such element).  <br />
@@ -174,4 +172,3 @@ Input : {3, 3, 4, 2, 4, 4, 2, 4} <br />
 Output : No Majority Element <br />
 Explanation: There is no element whose frequency is <br />
 greater than the half of the size of the array size.
->>>>>>> Added question 13
